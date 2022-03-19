@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GrandMainScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GrandGameSelectionScene.unity
+    guid: 99a74d15f3b7f2948985e04b56ec82f4
   m_configObjects: {}
